@@ -7,7 +7,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/tinde29/telegram-proxy-scraper)
 ![GitHub issues](https://img.shields.io/github/issues/tinde29/telegram-proxy-scraper)
 
-**آخرین به‌روزرسانی پروکسی‌ها**: 22 July 2025, 03:53 UTC (به وقت ایران: 07:23)
+**آخرین به‌روزرسانی پروکسی‌ها**: 22 July 2025, 06:59 UTC (به وقت ایران: 10:29)
 
 این پروژه یه اسکریپت پایتون برای جمع‌آوری خودکار پروکسی‌های MTProto تلگرام از منابع متنی و کانال‌های تلگرامه. پروکسی‌ها تو فایل `proxy.txt` ذخیره می‌شن و هر 6 ساعت به‌صورت خودکار به‌روزرسانی می‌شن.
 
@@ -45,36 +45,36 @@
 
 | #  | سرور (Server)       | پورت (Port) | وضعیت     | لینک پروکسی                     |
 |----|---------------------|-------------|-----------|---------------------------------|
-| 1 | soos-turk.nuremborg-hamborg.dodos-codam.jojo19.ir | 443 | فعال | `tg://proxy?server=soos-turk.nuremborg-hamborg.dodos-codam.jojo19.ir&port=443&secret=7gD_AA___wD_9VVf______VtZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
-| 2 | 178.130.42.116 | 443 | فعال | `tg://proxy?server=178.130.42.116&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D` |
-| 3 | 65.108.219.52 | 551 | فعال | `tg://proxy?server=65.108.219.52&port=551&secret=79e344818749bd7ac519130220c25d09` |
-| 4 | 91.99.231.96 | 155 | فعال | `tg://proxy?server=91.99.231.96&port=155&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ` |
-| 5 | startup-active.custome-tobano.405bazi.ir | 8888 | فعال | `tg://proxy?server=startup-active.custome-tobano.405bazi.ir&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
-| 6 | 49.12.38.200 | 155 | فعال | `tg://proxy?server=49.12.38.200&port=155&secret=dd1603010200010001fc030386e24c3add|[پروکسی](tg://proxy?server=62.60.178.253` |
-| 7 | 176.65.128.142 | 8888 | فعال | `tg://proxy?server=176.65.128.142&port=8888&secret=1603010200010001fc030386e24c3add` |
-| 8 | 91.99.228.230 | 59065 | فعال | `tg://proxy?server=91.99.228.230&port=59065&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D` |
-| 9 | Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info. | 443 | فعال | `tg://proxy?server=Focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.info.&port=443&secret=iORid5lJ237IiBMGYMQMdw==` |
-| 10 | 62.84.101.60 | 443000 | فعال | `tg://proxy?server=62.84.101.60&port=443000&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ` |
-| 11 | 2.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info | 8888 | فعال | `tg://proxy?server=2.dfff.cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.net.digikala.com.www.enamad.ir.www.google.com.again_to_fight.everyone.i_am.the_internet.zban-df.info&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q` |
-| 12 | www.hihim.sbs | 888 | فعال | `tg://proxy?server=www.hihim.sbs&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d)__` |
-| 13 | 138.199.169.156 | 8888 | فعال | `tg://proxy?server=138.199.169.156&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q` |
-| 14 | 46.62.146.42 | 81 | فعال | `tg://proxy?server=46.62.146.42&port=81&secret=7h-Bh5mj0cvgWJcdCXesuLZtZWRpYS5zdGVhbXBvd2VyZWQuY29t)__` |
-| 15 | 65.108.12.153 | 65 | فعال | `tg://proxy?server=65.108.12.153&port=65&secret=d77db43ee3721f0fcb40a4ff63b5cd27` |
-| 16 | 157.180.120.198 | 888 | فعال | `tg://proxy?server=157.180.120.198&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ` |
-| 17 | 151.244.50.9 | 70 | فعال | `tg://proxy?server=151.244.50.9&port=70&secret=ee0000f00f0f775555fffffff5006e2e696D656469612E737465616D706F77657265642E636F6D` |
-| 18 | 157.90.65.125 | 443 | فعال | `tg://proxy?server=157.90.65.125&port=443&secret=7gffffffff_f_Adkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ` |
-| 19 | 88.210.14.179 | 443000 | فعال | `tg://proxy?server=88.210.14.179&port=443000&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ` |
-| 20 | 91.99.85.639l.ir | 110 | فعال | `tg://proxy?server=91.99.85.639l.ir&port=110&secret=7gAA8A8Pd1VV____9QBuLmktLXcuZ28tLS0=` |
-| 21 | 62.60.178.3 | 8888 | فعال | `tg://proxy?server=62.60.178.3&port=8888&secret=7gAA8A8Pd1VV9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t____` |
-| 22 | 204.76.203.84 | 443 | فعال | `tg://proxy?server=204.76.203.84&port=443&secret=15115115115115115115115115115115` |
-| 23 | 87.248.132.76 | 200 | فعال | `tg://proxy?server=87.248.132.76&port=200&secret=7nngAAAAAAAAAAAAAAAAAABodHRwczovL2FsaWJhYmEuaXI=)__` |
-| 24 | 91.99.238.130 | 8080 | فعال | `tg://proxy?server=91.99.238.130&port=8080&secret=7gAA8A8Pd1VV____9QBuLmktLXd3LmZvLS0=` |
-| 25 | asd.homayoon19.ir | 155 | فعال | `tg://proxy?server=asd.homayoon19.ir&port=155&secret=eeNEgYdJvXrFGRMCIMJdCQ` |
-| 26 | cd9ffdcd077ba605.bytezs.ir | 443 | فعال | `tg://proxy?server=cd9ffdcd077ba605.bytezs.ir&port=443&secret=7gcgcgcgcgcgcgcgcgcgcgd0cmFuc2xhdGUuZ29v)__` |
-| 27 | 103.35.189.118 | 8888 | فعال | `tg://proxy?server=103.35.189.118&port=8888&secret=eed0d6e111bada5511fcce9584deadbeef6170706c652e636f6d**` |
-| 28 | 213.176.92.143 | 443 | فعال | `tg://proxy?server=213.176.92.143&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d` |
-| 29 | 87.248.132.42 | 200 | فعال | `tg://proxy?server=87.248.132.42&port=200&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D` |
-| 30 | 94.130.54.26 | 3443 | فعال | `tg://proxy?server=94.130.54.26&port=3443&secret=DDBighLLvXrFGRMCBVJdFQ==` |
+| 1 | BodoBodo.khoshghovar.online. | 888 | فعال | `tg://proxy?server=BodoBodo.khoshghovar.online.&port=888&secret=ee0c30628212cbbd7ac519130205525d1569612e737465616d706f77657265642e636f6d****` |
+| 2 | 78884.ir.ir.ir.ir.ir.zban-mas.info | 8888 | فعال | `tg://proxy?server=78884.ir.ir.ir.ir.ir.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 3 | 488.ir.ir.ir.ir.ir.zban-mas.info | 8888 | فعال | `tg://proxy?server=488.ir.ir.ir.ir.ir.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV__9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 4 | 157.180.93.115 | 443 | فعال | `tg://proxy?server=157.180.93.115&port=443&secret=iORid5lJ237IiBMGYMQMdw==` |
+| 5 | 91.99.105.128 | 8888 | فعال | `tg://proxy?server=91.99.105.128&port=8888&secret=7gAA8A8Pd1VV` |
+| 6 | 157.180.124.237 | 8888 | فعال | `tg://proxy?server=157.180.124.237&port=8888&secret=FgMBAgABAAH8AwOG4kw63` |
+| 7 | 157.180.112.134 | 8888 | فعال | `tg://proxy?server=157.180.112.134&port=8888&secret=FgMBAgABAAH8AwOG4kw63Q` |
+| 8 | 91.99.100.55 | 155 | فعال | `tg://proxy?server=91.99.100.55&port=155&secret=ddec742282124f04d318551341ead76457` |
+| 9 | 151.244.42.19 | 85 | فعال | `tg://proxy?server=151.244.42.19&port=85&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d` |
+| 10 | 62.60.177.121 | 343 | فعال | `tg://proxy?server=62.60.177.121&port=343&secret=FgMBAgABAAfwAwOG4kw63Q` |
+| 11 | 62.60.179.198 | 343 | فعال | `tg://proxy?server=62.60.179.198&port=343&secret=FgMBAgABAAfwAwOG4kw63Q` |
+| 12 | 62.60.178.218 | 8080 | فعال | `tg://proxy?server=62.60.178.218&port=8080&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d` |
+| 13 | 157.180.118.58 | 551 | فعال | `tg://proxy?server=157.180.118.58&port=551&secret=eeNEgYdJvXrFGRMCIMJdCQ` |
+| 14 | 91.99.201.44 | 443 | فعال | `tg://proxy?server=91.99.201.44&port=443&secret=eec862057ba49a7ecdf0ad4eb44cd5bb11646f776e6c6f61642e77696e646f77737570646174652e636f6d` |
+| 15 | 89.251.10.20 | 443 | فعال | `tg://proxy?server=89.251.10.20&port=443&secret=ee151151151151151151151151151151156d656469612e737465616d706f77657265642e636f6d)[پروکسی](https://t.me/proxy?server=89.251.10.20` |
+| 16 | 99955.meli.zban-mas.info | 8888 | فعال | `tg://proxy?server=99955.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 17 | 62.60.177.78 | 443 | فعال | `tg://proxy?server=62.60.177.78&port=443&secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D` |
+| 18 | 91.99.175.114 | 8888 | فعال | `tg://proxy?server=91.99.175.114&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 19 | 1.meli.zban-mas.info | 8888 | فعال | `tg://proxy?server=1.meli.zban-mas.info&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 20 | focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.ps-fifaei.ir | 70 | فعال | `tg://proxy?server=focos-mokos.berlino-landcvixo.yokohama-1borino.eromatic.ps-fifaei.ir&port=70&secret=eed77db43ee3721f0fcb40a4ff63b5cd276d656469612e737465616d706f77657265642e636f6d)__` |
+| 21 | 88.248.132.18 | 85 | فعال | `tg://proxy?server=88.248.132.18&port=85&secret=7gAA8A8Pd1VV____9QBuLmlkb3dubG9hZC53aW5kb3dzdXBkYXRlLmNvbQ` |
+| 22 | 128.140.67.68 | 53246 | فعال | `tg://proxy?server=128.140.67.68&port=53246&secret=1320PuNyHw_LQKT_Y7XNJw==` |
+| 23 | 93.88.205.27 | 888 | فعال | `tg://proxy?server=93.88.205.27&port=888&secret=eeNEgYdJvXrFGRMCIMJdCQ` |
+| 24 | 91.201.115.102 | 443000 | فعال | `tg://proxy?server=91.201.115.102&port=443000&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ` |
+| 25 | 91.99.138.108 | 155 | فعال | `tg://proxy?server=91.99.138.108&port=155&secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)__` |
+| 26 | 46.62.141.92 | 155 | فعال | `tg://proxy?server=46.62.141.92&port=155&secret=ee07df7df7df7dffdffc07646f776e6c6f61642e77696e646f77737570646174652e636f6d` |
+| 27 | 91.99.236.93 | 443 | فعال | `tg://proxy?server=91.99.236.93&port=443&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d` |
+| 28 | 141.147.21.116 | 443 | فعال | `tg://proxy?server=141.147.21.116&port=443&secret=eed0d6e131bada5511fcce9584deadbeef6b65746161626f6e6c696e652e636f6d)[برای` |
+| 29 | 91.99.105.128 | 8888 | فعال | `tg://proxy?server=91.99.105.128&port=8888&secret=7gAA8A8Pd1VV____9QBuLmltZWRpYS5zdGVhbXBvd2VyZWQuY29t` |
+| 30 | 62.60.179.8 | 9880 | فعال | `tg://proxy?server=62.60.179.8&port=9880&secret=ee0000f00f0f775555fffffff5006e2e696d656469612e737465616d706f77657265642e636f6d****` |
 
 
 > **توجه**: این جدول فقط برای نمایش نمونه‌ست. برای دسترسی به همه پروکسی‌های به‌روز، فایل [proxy.txt](proxy.txt) رو دانلود کنید.
